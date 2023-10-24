@@ -1,0 +1,13 @@
+.carousel-item img{
+    height: 300px;
+    width: 100%;
+    /* object-fit: fill; */
+    
+}
+.card img{
+    height: 100px;
+    width: 100%;
+
+}
+
+
